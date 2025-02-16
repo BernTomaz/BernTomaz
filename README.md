@@ -1,25 +1,25 @@
-# Olá, pessoal! 👋
+Hello, everyone! 👋
 
-Sou **Bernardo Tomaz**, um entusiasta do desenvolvimento back-end sempre em busca de novos desafios e aprendizados. Meu foco é criar soluções escaláveis, eficientes e bem arquitetadas.
+I'm Bernardo Tomaz, a back-end development enthusiast always looking for new challenges and learning opportunities. My focus is on creating scalable, efficient, and well-architected solutions.
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Technologies and Tools
 
-- **C#** & **.NET Core** – Desenvolvimento robusto e multiplataforma para APIs e sistemas escaláveis.  
-- **Entity Framework** – ORM que facilita a integração com bancos de dados.  
-- **SQL Server** & **PostgreSQL** – Gerenciamento de dados com alta performance.  
-- **Python** – Uso para automação, análise de dados e scripts eficientes.  
-- **Docker** & **GitHub Actions** – Automatizando deploys e CI/CD para um fluxo de trabalho eficiente.  
+C# & .NET Core – Robust and cross-platform development for APIs and scalable systems.
+Entity Framework – ORM that facilitates integration with databases.
+SQL Server & PostgreSQL – Data management with high performance.
+Python – Used for automation, data analysis, and efficient scripting.
+Docker & GitHub Actions – Automating deployments and CI/CD for an efficient workflow.  
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BernTomaz&show_icons=true&theme=radical" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernTomaz&layout=compact&theme=radical&hide=javascript,html" width="400">
 </div>
 
-## 📫 Vamos Conectar!
-
-Quer trocar uma ideia sobre tecnologia ou colaborar em algum projeto? Me encontre nas redes:
+## >
+📫 Let's Connect!
+Want to talk about technology or collaborate on a project? You can find me on these platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-tomaz-493a78136)
 [![Portfólio](https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://berndev.online/)
@@ -28,5 +28,5 @@ Quer trocar uma ideia sobre tecnologia ou colaborar em algum projeto? Me encontr
 
 ---
 
-*Nota: As estatísticas são atualizadas em tempo real, então fique à vontade para conferir meu progresso!*
+*Note: Stats are updated in real time, so feel free to check out my progress!*
 
