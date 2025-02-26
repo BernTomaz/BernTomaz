@@ -1,7 +1,7 @@
 # 🖥️ Hello, everyone! 👋
 
-```diff
-> Back-end development enthusiast | Problem solver | Always learning
+```
+ Back-end development enthusiast | Problem solver | Always learning
 ```
 
 I'm Bernardo Tomaz, a **back-end development enthusiast** always looking for new challenges and learning opportunities.  
