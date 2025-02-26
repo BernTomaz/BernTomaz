@@ -1,23 +1,34 @@
-Hello, everyone! 👋
+# 🖥️ Hello, everyone! 👋
 
-I'm Bernardo Tomaz, a back-end development enthusiast always looking for new challenges and learning opportunities. My focus is on creating scalable, efficient, and well-architected solutions.
+```diff
+> Back-end development enthusiast | Problem solver | Always learning
+```
 
-## 🚀 Technologies and Tools
+I'm Bernardo Tomaz, a **back-end development enthusiast** always looking for new challenges and learning opportunities.  
+My focus is on creating **scalable, efficient, and well-architected solutions**.
 
-C# & .NET Core – Robust and cross-platform development for APIs and scalable systems.
-Entity Framework – ORM that facilitates integration with databases.
-SQL Server & PostgreSQL – Data management with high performance.
-Python – Used for automation, data analysis, and efficient scripting.
-Docker & GitHub Actions – Automating deployments and CI/CD for an efficient workflow.  
+---
 
-## 📈 GitHub Stats
+## 🚀 Technologies and Tools  
+
+💾 **Languages & Frameworks**  
+- 🟣 **C# & .NET Core** – Robust and cross-platform development for APIs and scalable systems.  
+- 🐍 **Python** – Used for automation, data analysis, and efficient scripting.  
+- 🛢 **SQL Server & PostgreSQL** – Data management with high performance.  
+- 🔧 **Entity Framework** – ORM that facilitates integration with databases.  
+- 🐳 **Docker** – Containerized applications for seamless deployment.  
+- ⚙️ **GitHub Actions** – Automating CI/CD workflows.  
+
+---
+
+## 📈 GitHub Stats  
 
 <div align="center">
-   <!-- Estatísticas do GitHub -->
+   <!-- GitHub Stats -->
    <img src="https://github-readme-stats.vercel.app/api?username=BernTomaz&show_icons=true&theme=tokyonight" width="450">
    <br><br>
    
-   <!-- Linguagens mais usadas -->
+   <!-- Most Used Languages -->
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernTomaz&layout=compact&theme=radical&hide=javascript,html" width="450">
    <br><br>
 
@@ -25,21 +36,27 @@ Docker & GitHub Actions – Automating deployments and CI/CD for an efficient wo
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BernTomaz&theme=radical" width="450">
    <br><br>
 
-   <!-- Gráfico de Atividade -->
+   <!-- GitHub Activity Graph -->
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BernTomaz&theme=dracula" width="800">
 </div>
 
+---
 
-## >
-📫 Let's Connect!
-Want to talk about technology or collaborate on a project? You can find me on these platforms:
+## 📡 **Let's Connect!**  
+
+Want to **talk about technology or collaborate on a project**? Reach out to me here:  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-tomaz-493a78136)
-[![Portfólio](https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://berndev.online/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://berndev.online/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bern_tomaz/)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Bern_30)
 
 ---
 
-*Note: Stats are updated in real time, so feel free to check out my progress!*
+> 🚀 *"Simplicity is a prerequisite. If simplicity is not perceived at the beginning, it will be impossible to achieve it later."* – Edsger Dijkstra
 
+---
+
+**📝 Notes:**  
+📌 *Stats are updated in real-time. Check back to see my progress!*  
+📌 *This profile is under continuous development – just like my skills!*
