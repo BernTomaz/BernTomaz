@@ -17,7 +17,6 @@ My focus is on creating **scalable, efficient, and well-architected solutions**.
 - 🛢 **SQL Server & PostgreSQL** – Data management with high performance.  
 - 🔧 **Entity Framework** – ORM that facilitates integration with databases.  
 - 🐳 **Docker** – Containerized applications for seamless deployment.  
-- ⚙️ **GitHub Actions** – Automating CI/CD workflows.  
 
 ---
 
