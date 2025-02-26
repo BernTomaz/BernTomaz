@@ -13,9 +13,22 @@ Docker & GitHub Actions – Automating deployments and CI/CD for an efficient wo
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BernTomaz&show_icons=true&theme=radical" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernTomaz&layout=compact&theme=radical&hide=javascript,html" width="400">
+   <!-- Estatísticas do GitHub -->
+   <img src="https://github-readme-stats.vercel.app/api?username=BernTomaz&show_icons=true&theme=tokyonight" width="450">
+   <br><br>
+   
+   <!-- Linguagens mais usadas -->
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernTomaz&layout=compact&theme=radical&hide=javascript,html" width="450">
+   <br><br>
+
+   <!-- GitHub Streak Stats -->
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BernTomaz&theme=radical" width="450">
+   <br><br>
+
+   <!-- Gráfico de Atividade -->
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BernTomaz&theme=dracula" width="800">
 </div>
+
 
 ## >
 📫 Let's Connect!
