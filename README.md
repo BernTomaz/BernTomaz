@@ -1,63 +1,106 @@
-# 🖥️ Hello, everyone! 👋
+# Hello, I'm Bernardo Tomaz
 
-```
- Back-end development enthusiast | Problem solver | Always learning
-```
+Full Stack Developer with a strong focus on backend development, APIs, relational databases and scalable systems.
 
-I'm Bernardo Tomaz, a **back-end development enthusiast** always looking for new challenges and learning opportunities.  
-My focus is on creating **scalable, efficient, and well-architected solutions**.
+I work mainly with **C#**, **.NET**, **ASP.NET Core**, **Entity Framework**, **Angular**, **TypeScript**, **SQL Server** and **Oracle**.
+
+I enjoy solving real problems through clean code, well-structured architecture and reliable data management.  
+I'm constantly improving my skills in backend development, system design, relational databases and software engineering best practices.
 
 ---
 
-# 🚀 Technologies and Tools
+## Main Stack
 
-## 💾 **Languages & Frameworks**  
-- 🟣 **C# & .NET Core** – Robust and cross-platform development for APIs and scalable systems.  
-- 🐍 **Python** – Used for automation, data analysis, and efficient scripting. It's also the primary language for **Machine Learning** projects, enabling predictive modeling and data analysis.  
-- 🛢 **SQL Server & PostgreSQL** – Data management with high performance, ensuring reliable and efficient relational database operations.  
-- 🔧 **Entity Framework** – ORM that facilitates integration with databases, simplifying object-relational mapping in applications.  
-- 🐳 **Docker** – Containerized applications for seamless deployment across various environments, ensuring flexibility and scalability.
+<div align="left">
 
-## 📊 **Data Science & Machine Learning**  
-- 📓 **Jupyter Notebook** – An interactive environment used for data analysis, visualizations, and the development of **Machine Learning** models in Python, providing an efficient workflow for experimenting with different algorithms and datasets.  
----
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Swagger/OpenAPI](https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-## 📈 GitHub Stats  
+<br>
 
-<div align="center">
-   <!-- GitHub Stats -->
-   <img src="https://github-readme-stats.vercel.app/api?username=BernTomaz&show_icons=true&theme=tokyonight" width="450">
-   <br><br>
-   
-   <!-- Most Used Languages -->
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernTomaz&layout=compact&theme=radical&hide=javascript,html" width="450">
-   <br><br>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular Material](https://img.shields.io/badge/Angular%20Material-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
-   <!-- GitHub Streak Stats -->
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BernTomaz&theme=radical" width="450">
-   <br><br>
+<br>
 
-   <!-- GitHub Activity Graph -->
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BernTomaz&theme=dracula" width="800">
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![TFS](https://img.shields.io/badge/TFS-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+
 </div>
 
 ---
 
-## 📡 **Let's Connect!**  
+## Also Studying and Using
 
-Want to **talk about technology or collaborate on a project**? Reach out to me here:  
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-111111?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+
+</div>
+
+- **Python** for automation, scripting and data analysis.
+- **Jupyter Notebook** for experiments, visualizations and machine learning studies.
+- **Power BI** for dashboards, indicators and data visualization.
+- **SharePoint** for internal tools and business process support.
+
+---
+
+## What I'm Focused On
+
+- Building REST APIs with .NET
+- Developing Angular applications connected to real business workflows
+- Working with relational databases, queries and data modeling
+- Improving backend architecture and code quality
+- Studying software engineering practices through real projects
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BernTomaz&show_icons=true&theme=tokyonight" width="450">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernTomaz&layout=compact&theme=tokyonight&hide=javascript,html" width="450">
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BernTomaz&theme=tokyonight" width="450">
+
+</div>
+
+---
+
+## Let's Connect
+
+Want to talk about technology, software development or collaborate on a project? Reach out to me here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-tomaz-493a78136)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://berndev.online/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bern_tomaz/)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Bern_30)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://berndev.online/)
 
 ---
 
-> 🚀 *"Simplicity is a prerequisite. If simplicity is not perceived at the beginning, it will be impossible to achieve it later."* – Edsger Dijkstra
-
----
-
-**📝 Notes:**  
-📌 *Stats are updated in real-time. Check back to see my progress!*  
-📌 *This profile is under continuous development – just like my skills!*
+> "Simplicity is a prerequisite. If simplicity is not perceived at the beginning, it will be impossible to achieve it later."  
+> - Edsger Dijkstra
