@@ -79,8 +79,6 @@ I'm constantly improving my skills in backend development, system design, relati
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BernTomaz&show_icons=true&theme=tokyonight" width="450">
-
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernTomaz&layout=compact&theme=tokyonight&hide=javascript,html" width="450">
