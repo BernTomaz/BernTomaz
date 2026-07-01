@@ -1,11 +1,12 @@
 # Hello, I'm Bernardo Tomaz
 
-Full Stack Developer with a strong focus on backend development, APIs, relational databases and scalable systems.
+Full Stack Developer focused on backend development, APIs, relational databases and scalable business systems.
 
 I work mainly with **C#**, **.NET**, **ASP.NET Core**, **Entity Framework**, **Angular**, **TypeScript**, **SQL Server** and **Oracle**.
 
-I enjoy solving real problems through clean code, well-structured architecture and reliable data management.  
-I'm constantly improving my skills in backend development, system design, relational databases and software engineering best practices.
+I enjoy building reliable software that solves real problems: clean APIs, well-structured data models, maintainable code and systems that support actual business workflows.
+
+I'm currently deepening my knowledge in backend architecture, system design, relational databases and software engineering best practices through practical projects.
 
 ---
 
@@ -65,27 +66,27 @@ I'm constantly improving my skills in backend development, system design, relati
 
 ---
 
-## What I'm Focused On
+## Current Focus
 
-- Building REST APIs with .NET
+- Building REST APIs with .NET and ASP.NET Core
+- Designing relational databases, queries and data models
 - Developing Angular applications connected to real business workflows
-- Working with relational databases, queries and data modeling
-- Improving backend architecture and code quality
+- Improving backend architecture, maintainability and code quality
 - Studying software engineering practices through real projects
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernTomaz&layout=compact&theme=tokyonight&hide=javascript,html" width="450">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BernTomaz&theme=tokyonight" width="450">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BernTomaz&theme=tokyonight" width="450">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BernTomaz&theme=tokyonight" width="700">
 
 </div>
 
@@ -93,12 +94,13 @@ I'm constantly improving my skills in backend development, system design, relati
 
 ## Let's Connect
 
-Want to talk about technology, software development or collaborate on a project? Reach out to me here:
+I'm open to talking about technology, backend development, software architecture and projects that solve real business problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-tomaz-493a78136)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://berndev.online/)
 
 ---
 
-> "Simplicity is a prerequisite. If simplicity is not perceived at the beginning, it will be impossible to achieve it later."  
+> "Simplicity is a prerequisite. If simplicity is not perceived at the beginning, it will be impossible to achieve it later."
+>
 > - Edsger Dijkstra
